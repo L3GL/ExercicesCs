@@ -1,0 +1,7 @@
+C:\Users\abdou\Desktop\ISIL3\CSharp\Exercices\calculator\bin\Debug\calculator.exe.config
+C:\Users\abdou\Desktop\ISIL3\CSharp\Exercices\calculator\bin\Debug\calculator.exe
+C:\Users\abdou\Desktop\ISIL3\CSharp\Exercices\calculator\bin\Debug\calculator.pdb
+C:\Users\abdou\Desktop\ISIL3\CSharp\Exercices\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\abdou\Desktop\ISIL3\CSharp\Exercices\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\abdou\Desktop\ISIL3\CSharp\Exercices\calculator\obj\Debug\calculator.exe
+C:\Users\abdou\Desktop\ISIL3\CSharp\Exercices\calculator\obj\Debug\calculator.pdb

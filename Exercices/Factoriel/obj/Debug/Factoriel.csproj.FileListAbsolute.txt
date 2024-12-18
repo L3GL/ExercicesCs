@@ -1,0 +1,7 @@
+C:\Users\abdou\Desktop\ISIL3\CSharp\Exercices\Factoriel\obj\Debug\Factoriel.csproj.AssemblyReference.cache
+C:\Users\abdou\Desktop\ISIL3\CSharp\Exercices\Factoriel\obj\Debug\Factoriel.csproj.CoreCompileInputs.cache
+C:\Users\abdou\Desktop\ISIL3\CSharp\Exercices\Factoriel\bin\Debug\Factoriel.exe.config
+C:\Users\abdou\Desktop\ISIL3\CSharp\Exercices\Factoriel\bin\Debug\Factoriel.exe
+C:\Users\abdou\Desktop\ISIL3\CSharp\Exercices\Factoriel\bin\Debug\Factoriel.pdb
+C:\Users\abdou\Desktop\ISIL3\CSharp\Exercices\Factoriel\obj\Debug\Factoriel.exe
+C:\Users\abdou\Desktop\ISIL3\CSharp\Exercices\Factoriel\obj\Debug\Factoriel.pdb

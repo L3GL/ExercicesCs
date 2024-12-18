@@ -1,0 +1,7 @@
+C:\Users\abdou\Desktop\ISIL3\CSharp\Exercices\Carree\bin\Debug\Carree.exe.config
+C:\Users\abdou\Desktop\ISIL3\CSharp\Exercices\Carree\bin\Debug\Carree.exe
+C:\Users\abdou\Desktop\ISIL3\CSharp\Exercices\Carree\bin\Debug\Carree.pdb
+C:\Users\abdou\Desktop\ISIL3\CSharp\Exercices\Carree\obj\Debug\Carree.csproj.AssemblyReference.cache
+C:\Users\abdou\Desktop\ISIL3\CSharp\Exercices\Carree\obj\Debug\Carree.csproj.CoreCompileInputs.cache
+C:\Users\abdou\Desktop\ISIL3\CSharp\Exercices\Carree\obj\Debug\Carree.exe
+C:\Users\abdou\Desktop\ISIL3\CSharp\Exercices\Carree\obj\Debug\Carree.pdb
